@@ -2,7 +2,7 @@
 
 ## Services
 
-### Recommendation Service
+### Match Service
 
 #### Requirements
 
